@@ -9,7 +9,9 @@
 [![Chapters](https://img.shields.io/badge/Chapters-s01%E2%80%93s03-orange)](./s01-agent-loop/)
 [![GraphSpec](https://img.shields.io/badge/Spec-GraphSpec-purple)](./assets/GraphSpec-Paper.md)
 
-[English](./README.md) · [架构文档](./docs/session-extraction.md) · [GraphSpec](./assets/GraphSpec-Paper.md)
+[完整双语版 README](./README.md) · [English](./README.md#english) · [架构文档](./docs/session-extraction.md) · [GraphSpec](./assets/GraphSpec-Paper.md)
+
+> 本文件与 [README.md](./README.md) 中文部分同步；GitHub 首页默认展示双语 README。
 
 **模型是司机，Harness 是车，演化图谱是会话的地图。**
 
