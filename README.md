@@ -16,6 +16,8 @@
 
 *The model drives. The harness is the vehicle. The evolution graph is the map of the conversation.*
 
+![架构示意：Session → s01 提炼 → s02 图谱 → s03 查询](./assets/architecture-overview.svg)
+
 </div>
 
 ---
@@ -36,6 +38,7 @@
 - [路线图](#路线图)
 - [贡献](#贡献)
 - [许可证](#许可证)
+- [GitHub 展示：Pin / Topics](#github-展示pin--topics)
 - [English 英文说明](#english)
 
 ---
@@ -277,6 +280,16 @@ python s03-planning/agent.py
 ## 许可证
 
 本项目采用 [MIT License](./LICENSE) 开源。
+
+---
+
+## GitHub 展示：Pin / Topics
+
+| 操作 | 说明 |
+|------|------|
+| **Pin 到个人主页** | 在 [你的主页](https://github.com/quick123-666) 点 **Customize your pins**，把本仓库固定到最上方（最多 6 个） |
+| **Topics 标签** | 仓库 **About → Edit**，建议添加：`agent` `llm` `knowledge-graph` `python` `graphspec` `evolution-graph` |
+| **详细图文步骤** | 见 [docs/github-展示设置.md](./docs/github-展示设置.md) |
 
 ---
 
