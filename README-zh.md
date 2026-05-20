@@ -241,6 +241,7 @@ python s03-planning/agent.py
 | 项目 | 关系 |
 |------|------|
 | [Learn Claude Code](https://learn.shareai.run/en/) | 通用 Harness 教学法；本仓库是其「图谱专题课」 |
+| [toolchain-manager-course](https://github.com/quick123-666/toolchain-manager-course) | 姊妹课：Session 演化图谱 ↔ 工具链管理，同一 GraphSpec 生态 |
 | [GraphSpec / GraphForge](./assets/GraphSpec-Paper.md) | 数据规范参考 |
 | [star-level](https://github.com/quick123-666/star-level) | 同作者的 Next.js 全栈示例（不同领域） |
 | [bounded-memory](https://github.com/quick123-666/bounded-memory) | 同作者的 AI 记忆系统 |

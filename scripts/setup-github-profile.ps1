@@ -32,12 +32,12 @@ Write-Host "    Topics 与描述已更新。" -ForegroundColor Green
 
 # Pin 顺序（最多 6 个，按展示优先级）
 $PinRepos = @(
+    "toolchain-manager-course",
     "session-evolution-graph",
     "star-level",
     "bounded-memory",
     "code-memex-lite",
-    "Claude-Bridge-claw",
-    "network-backup-guardian"
+    "Claude-Bridge-claw"
 )
 
 Write-Host "==> 获取仓库 Node ID..." -ForegroundColor Cyan

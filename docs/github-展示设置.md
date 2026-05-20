@@ -13,8 +13,8 @@
 ├─────────────────────────────────────────┤
 │  📌 Pinned（置顶，最多 6 个）              │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ │
-│  │ session- │ │ star-    │ │ bounded- │ │
-│  │ evolution│ │ level    │ │ memory   │ │
+│  │ toolchain│ │ session- │ │ star-    │ │
+│  │ manager  │ │ evolution│ │ level    │ │
 │  └──────────┘ └──────────┘ └──────────┘ │
 │  … 其余仓库在下面列表里 …                 │
 └─────────────────────────────────────────┘
@@ -28,12 +28,12 @@
 1. 打开 https://github.com/quick123-666  
 2. 右侧 **Pinned** 区域点 **Customize your pins**（自定义置顶）  
 3. 勾选要展示的仓库，例如：  
+   - `toolchain-manager-course`  
    - `session-evolution-graph`  
    - `star-level`  
    - `bounded-memory`  
    - `code-memex-lite`  
    - `Claude-Bridge-claw`  
-   - `network-backup-guardian`  
 4. 拖拽调整顺序 → **Save**
 
 > Pin 只影响**个人主页展示顺序**，不改变仓库本身。
